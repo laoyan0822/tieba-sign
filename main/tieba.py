@@ -14,7 +14,7 @@ class tieba:
     # bduss
     bduss = ''
     # 填入自己的百度id
-    myid = ''
+    myid = 'hcc22'
 
     url = 'http://tieba.baidu.com/home/main?un=' + myid + '&fr=index'
     headers = {'Cookie': 'BDUSS=' + bduss}
